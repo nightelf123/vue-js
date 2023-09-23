@@ -16,8 +16,8 @@
     "vite": "^4.4.6"
   },
   "ampt": {
-    "org": "",
-    "app": "vue-js"
+    "app": "vue-js",
+    "org": "git309726"
   },
   "files": [
     "*"
